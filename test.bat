@@ -1,3 +1,3 @@
 @echo off
-echo Running Test Script
-echo Test Passed
+echo Running Test Script - Updated
+echo Test Passed Again
